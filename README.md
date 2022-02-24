@@ -25,5 +25,6 @@ neApiClient.php　=　SDk本体(編集する必要なし)
 ```
 
 ## Environment
-推奨環境: PHP version 5.6 or greater
+推奨環境:  
+PHP version 5.6 or greater  
 curl 7.25.0以降
