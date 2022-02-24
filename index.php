@@ -5,7 +5,7 @@
  * @since 2013/10/10
  * @copyright Hamee Corp. All Rights Reserved.
  *
-*/
+**/
 require_once("./library/neApiClient.php");
 use NextEngine\neApiClient;
 
