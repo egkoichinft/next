@@ -19,6 +19,11 @@ define('CLIENT_SECRET','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
 動作しない場合はphp-curlのパッケージがインストールされているか、ApacheまたはNginxのPHP読み込みの設定を見直してください
 
+```
+index.php = プログラムメイン(プログラム本体この部分を編集する)
+neApiClient.php　=　SDk本体(編集する必要なし)
+```
+
 ## Environment
 推奨環境: PHP version 5.6 or greater
 curl 7.25.0以降
