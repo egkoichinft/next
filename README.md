@@ -13,6 +13,7 @@ SDKは以下のことが網羅されています。
 index.phpの以下の部分にネクストエンジンのアプリを作るで発行したクライアントID(CLIENT_ID)とクライアントシークレット(CLIENT_SECRET)をxxの部分に書き換えれば動作します。
 
 define('CLIENT_ID','xxxxxxxxxxxx');
+
 define('CLIENT_SECRET','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
 動作しない場合はphp-curlのパッケージがインストールされているか、ApacheまたはNginxのPHP読み込みの設定を見直してください
