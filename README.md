@@ -11,6 +11,7 @@ SDKは以下のことが網羅されています。
 詳細は[Developer Network](https://developer.next-engine.com/)を参照ください。
 
 index.phpの以下の部分にネクストエンジンのアプリを作るで発行したクライアントID(CLIENT_ID)とクライアントシークレット(CLIENT_SECRET)をxxの部分に書き換えれば動作します。
+
 define('CLIENT_ID','xxxxxxxxxxxx');
 define('CLIENT_SECRET','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
